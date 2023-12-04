@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T03:04:48.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NJZ1L8psVhmV-Yxipbib" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T03:05:59.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zhUBqhDxngd0KbbyNhdq" version="22.1.5" type="github">
   <diagram name="Page-1" id="rnfl05dezQw3OKiB4XPq">
     <mxGraphModel dx="2524" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wo4gmGwAdyrtETloLqVD-8" value="Gabe" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-8" value="Gabe" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wo4gmGwAdyrtETloLqVD-11">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wo4gmGwAdyrtETloLqVD-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.021;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wo4gmGwAdyrtETloLqVD-11" target="wo4gmGwAdyrtETloLqVD-38">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.021;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wo4gmGwAdyrtETloLqVD-11" target="wo4gmGwAdyrtETloLqVD-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-11" value="MUSIC" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-11" value="MUSIC" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="510" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.836;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wo4gmGwAdyrtETloLqVD-12" target="wo4gmGwAdyrtETloLqVD-38">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.836;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wo4gmGwAdyrtETloLqVD-12" target="wo4gmGwAdyrtETloLqVD-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wo4gmGwAdyrtETloLqVD-12">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wo4gmGwAdyrtETloLqVD-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="wo4gmGwAdyrtETloLqVD-12">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="wo4gmGwAdyrtETloLqVD-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-12" value="MAPPING&lt;br&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-12" value="MAPPING&lt;br&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="600" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.444;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wo4gmGwAdyrtETloLqVD-14" target="wo4gmGwAdyrtETloLqVD-34">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.444;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wo4gmGwAdyrtETloLqVD-14" target="wo4gmGwAdyrtETloLqVD-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wo4gmGwAdyrtETloLqVD-14" target="wo4gmGwAdyrtETloLqVD-41">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wo4gmGwAdyrtETloLqVD-14" target="wo4gmGwAdyrtETloLqVD-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="550" as="targetPoint" />
             <Array as="points">
@@ -52,34 +52,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="111.43" y="710" as="targetPoint" />
             <mxPoint x="230.00142857142868" y="567.1428571428571" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-14" value="SNOW&lt;br&gt;BOARDING" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-14" value="SNOW&lt;br&gt;BOARDING" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="510" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-34" value="Build an online marketplace specifically for snowboarders to buy, sell, or trade gear. Make a feature that allows users to find and connect with local sellers or buyers." style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-34" value="Build an online marketplace specifically for snowboarders to buy, sell, or trade gear. Make a feature that allows users to find and connect with local sellers or buyers." style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-30" y="260" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-38" value="Develop an app that uses mapping to showcase local events, concerts, or meetups. Users can filter events based on their interests and location, making it easier for them to discover and participate in local activities." style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-38" value="Develop an app that uses mapping to showcase local events, concerts, or meetups. Users can filter events based on their interests and location, making it easier for them to discover and participate in local activities." style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="520" y="800" width="140" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-39" value="&amp;nbsp;a chatbot that recommends songs based on user preferences. Users can chat with the bot, inputting options like their mood, preferred genre, or a specific artist, and the bot responds with a song recommendation" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-39" value="&amp;nbsp;a chatbot that recommends songs based on user preferences. Users can chat with the bot, inputting options like their mood, preferred genre, or a specific artist, and the bot responds with a song recommendation" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="770" y="460" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-41" value="make an application focused on snowboard safety. Include features such as real-time weather updates, avalanche risk assessments, and emergency services contact information. Also add a buddy system that allows users to keep track of their friends on the mountain." style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-41" value="make an application focused on snowboard safety. Include features such as real-time weather updates, avalanche risk assessments, and emergency services contact information. Also add a buddy system that allows users to keep track of their friends on the mountain." style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-40" y="440" width="140" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-42" value="&amp;nbsp;a program that recommends snowboarding gear based on a user&#39;s preferences, skill level, and the type of terrain they typically ride on." style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-42" value="&amp;nbsp;a program that recommends snowboarding gear based on a user&#39;s preferences, skill level, and the type of terrain they typically ride on." style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-55" y="650" width="170" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-43" value="mapping app that highlights local experiences and hidden gems. Users can discover unique places, events, and activities in their vicinity based on crowd-sourced recommendations. add features like filters for different interests, user reviews, and the ability for users to submit their favorite local spots." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-43" value="mapping app that highlights local experiences and hidden gems. Users can discover unique places, events, and activities in their vicinity based on crowd-sourced recommendations. add features like filters for different interests, user reviews, and the ability for users to submit their favorite local spots." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="800" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="wo4gmGwAdyrtETloLqVD-44" value="A application that lets users explore historical maps through a time slider. Users can select a location and see how maps how the map has changed over time. maybe add features like annotations for historical events, the ability to compare different time periods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wo4gmGwAdyrtETloLqVD-44" value="A application that lets users explore historical maps through a time slider. Users can select a location and see how maps how the map has changed over time. maybe add features like annotations for historical events, the ability to compare different time periods" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="800" width="190" height="150" as="geometry" />
         </mxCell>
       </root>
